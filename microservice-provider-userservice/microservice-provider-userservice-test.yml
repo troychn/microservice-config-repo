@@ -13,7 +13,7 @@ spring:
 logging:
   level:
     root: INFO
-    org.hibernate: INFO
+    org.hibernate: debug
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
     com.troylc.cloud: debug
@@ -33,4 +33,4 @@ eureka:
 #      enabled: true
 
 # 测试配置属性的自动刷新功能，增加一个自定义的属性文件
-from: git-dev-1.0
+from: git-test-1.0
