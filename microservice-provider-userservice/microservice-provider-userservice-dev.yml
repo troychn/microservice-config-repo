@@ -27,4 +27,4 @@ logging:
 #      enabled: true
 
 # 测试配置属性的自动刷新功能，增加一个自定义的属性文件
-from: git-dev-7.0
+from: git-dev-8.0
