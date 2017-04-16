@@ -33,4 +33,4 @@ eureka:
 #      enabled: true
 
 # 测试配置属性的自动刷新功能，增加一个自定义的属性文件
-from: git-test-1.0
+configfrom: git-test-1.0

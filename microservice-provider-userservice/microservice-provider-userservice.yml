@@ -16,4 +16,4 @@ eureka:
 #    home-page-url-path: /instance-info
 
 # 测试配置属性的自动刷新功能，增加一个自定义的属性文件
-from: git-default-1.0
+configfrom: git-default-1.0
